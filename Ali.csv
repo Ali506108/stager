@@ -1,4 +1,7 @@
-|year|region|value|
-| ----| ----- |---|
-|2020|Almaty|130500|
-|2021|Almaty|150500|
+year,region,value
+2020,Almaty,130500
+2021,Almaty,150500
+
+year,region,value
+2020-01-01,Almaty,130500
+2021-01-01,Almaty,150500
