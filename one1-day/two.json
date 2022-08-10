@@ -1,0 +1,13 @@
+{
+    "country": "Golden horde",
+    "name":"Juchi",
+    "title":"khan",
+    "birthday":1225,
+    "alliv": false,
+    "family":{
+        "mother":"Tatar khanate",
+        "Father":"Mongol empire",
+        "wife":"Desht",
+        "sons":["cram kh","Sibir kh","nogai horde","kazakh kh"]
+    }
+}
